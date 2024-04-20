@@ -66,7 +66,7 @@ Leverage the Async.js library or mongo $lookup aggregation capability to join th
 - https://caolan.github.io/async/index.html
 - https://support.google.com/analytics/answer/2709829
 
-[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/32499803-64373852-807c-4bff-ab07-83d79bde708b?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D32499803-64373852-807c-4bff-ab07-83d79bde708b%26entityType%3Dcollection%26workspaceId%3Dae1265c8-dc89-43a0-9609-82bc5171da58#?env%5Btoken%5D=W3sia2V5IjoidG9rZW4iLCJ2YWx1ZSI6IiIsImVuYWJsZWQiOnRydWUsInR5cGUiOiJkZWZhdWx0Iiwic2Vzc2lvblZhbHVlIjoiSldULi4uIiwic2Vzc2lvbkluZGV4IjowfV0=)
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/32499803-dbb00631-b67d-408d-bc33-3195f0f50788?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D32499803-dbb00631-b67d-408d-bc33-3195f0f50788%26entityType%3Dcollection%26workspaceId%3Dbf6a4cd4-3301-4a85-98bd-c0bf5eac5ee2)
 
 ##
 - react link: https://csc3916-react-sabona35.onrender.com
